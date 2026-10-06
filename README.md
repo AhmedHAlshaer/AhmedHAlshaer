@@ -6,9 +6,7 @@ applied AI/ML and software engineering.
 I like building production systems around LLMs, agents, backend infrastructure,
 and data — especially software where AI has to interact with real tools and users.
 
-Previously a Founding Engineer Intern at **LimeLabels** and Machine Learning
-Intern at **BuildWithin**. Currently an Undergraduate Instructor / TA at
-Indiana University.
+Previously a Founding Engineer Intern at LimeLabels and Machine Learning Intern at BuildWithin. I currently teach undergraduate mathematics at Indiana University.
 
 I'm also building **[Coco](https://trycoco.ai)**, an AI school-calendar
 assistant for parents, and FilingsAnalyst,
