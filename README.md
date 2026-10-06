@@ -10,8 +10,9 @@ Previously a Founding Engineer Intern at **LimeLabels** and Machine Learning
 Intern at **BuildWithin**. Currently an Undergraduate Instructor / TA at
 Indiana University.
 
-I'm also building **Coco**, an AI school-calendar assistant for parents,
-and **FilingsAnalyst**, a retrieval system for analyzing SEC filings.
+I'm also building **[Coco](https://trycoco.ai)**, an AI school-calendar
+assistant for parents, and FilingsAnalyst,
+a retrieval system for analyzing SEC filings.
 
 Currently looking for Summer 2027 software engineering and AI/ML opportunities.
 
