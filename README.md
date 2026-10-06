@@ -1,129 +1,87 @@
-# Hey, I'm Ahmed 👋
+# Ahmed Alshaer
 
-### Applied AI/ML Engineer • Computer Science @ Indiana University
+Computer Science student at Indiana University Bloomington, interested in
+applied AI/ML and software engineering.
 
-I'm a Computer Science student at Indiana University Bloomington focused on
-**Applied AI, Machine Learning, and Software Engineering**.
+I like building production systems around LLMs, agents, backend infrastructure,
+and data. Especially projects where AI has to interact with real tools and
+real users.
 
-I enjoy building AI systems that go beyond demos — retrieval pipelines,
-autonomous agents, ML infrastructure, APIs, and full-stack products.
+Currently looking for Summer 2027 software engineering and AI/ML opportunities.
 
-🎓 **Indiana University Bloomington** — Computer Science  
-📈 **4.0 GPA**  
-🤖 Focused on **Applied AI / ML Engineering**  
-🔎 Seeking **Summer 2027 AI/ML & Software Engineering internships**
+## Experience
 
----
+**Founding Engineer Intern — LimeLabels**  
+Jan 2026 – Aug 2026
 
-## 🚀 What I'm Building
+Built backend infrastructure for a multi-tenant retail platform connecting
+five POS systems with electronic shelf-label hardware.
 
-### 📊 FilingsAnalyst
-**AI-powered financial filing analysis with hybrid retrieval**
+Worked across FastAPI, React, TypeScript, PostgreSQL, Supabase, Temporal,
+authentication, CI/CD, and production infrastructure.
 
-Question → Retrieval → LLM → Answer → Citations
+**Machine Learning Intern — BuildWithin**  
+May 2025 – Aug 2025
 
-- SEC 10-K ingestion and section extraction
-- Dense retrieval using Sentence Transformers + ChromaDB
-- BM25 lexical retrieval
-- Hybrid retrieval evaluation
-- Citation-grounded LLM responses
+Built candidate-job matching pipelines using LLM embeddings and LangSmith,
+and worked on evaluation and debugging of agent outputs.
 
-`Python` `RAG` `ChromaDB` `Sentence Transformers` `BM25` `LLMs`
+**Undergraduate Instructor / Teaching Assistant — Indiana University**  
+Jan 2025 – Present
 
----
+Teach and support students in discrete mathematics and other undergraduate
+math courses.
 
-### 🤖 AI Website Builder
+## Selected Work
 
-A multi-agent AI system that generates full-stack websites from
-natural-language requirements.
+### Coco
+AI school-calendar assistant for parents.
 
-Agents collaborate across:
+Built and maintain the production LLM agent, including tool calling,
+evaluation, calendar operations, data pipelines, background workers,
+and internal admin tooling.
 
-- Planning
-- Frontend
-- Backend
-- Integration
-- Evaluation
+`TypeScript` `Next.js` `Anthropic SDK` `PostgreSQL` `Redis` `Docker`
 
-`Python` `CrewAI` `LLMs` `Agents`
+### FilingsAnalyst
+RAG system for asking questions about SEC filings with grounded citations.
 
----
+Built filing ingestion, semantic retrieval, BM25 search, embeddings,
+and citation-backed LLM responses.
 
-### 🧠 Side-Kick
+`Python` `RAG` `ChromaDB` `Sentence Transformers` `BM25`
 
-Autonomous AI agent built using **LangGraph** with a
+### AI Website Builder
+Multi-agent system that generates full-stack websites from natural-language
+requirements.
+
+`Python` `CrewAI` `LLM Agents`
+
+### Side-Kick
+Autonomous agent built with LangGraph using tool calling and a
 worker-evaluator architecture.
 
-Features include:
+`Python` `LangGraph` `Playwright`
 
-- Autonomous task execution
-- Web browsing with Playwright
-- Multi-tool orchestration
-- Agent evaluation loops
+## Tech
 
-`Python` `LangGraph` `Playwright` `AI Agents`
+**Languages:** Python, Java, TypeScript/JavaScript, SQL, Swift
 
----
+**AI/ML:** LLM agents, tool calling, embeddings, LangSmith, scikit-learn,
+pandas, NumPy
 
-## 💼 Experience
+**Backend:** FastAPI, PostgreSQL, Supabase, Redis, Temporal, REST APIs
 
-### Founding Software Engineer — LimeLabels
-Built production software integrating multiple point-of-sale systems
-with electronic labeling infrastructure.
+**Frontend / Infrastructure:** React, Next.js, Docker, GitHub Actions, Railway
 
-- Designed concurrent synchronization across multiple REST APIs
-- Built backend services and data pipelines
-- Worked on a 0 → 1 production product
+## Education
 
-### Machine Learning Intern — BuildWithin
-Worked on machine-learning and embedding-based systems including
-data processing and AI infrastructure.
+**Indiana University Bloomington**  
+B.S. Computer Science — Expected May 2028  
+Minors in Mathematics and Data Science  
+GPA: 4.0 / 4.0
 
-### Teaching & Leadership
-- Undergraduate Instructor — Discrete Mathematics
-- Teaching Assistant — Mathematics
-- Projects VP — Muslim Tech Collaboration
+## Contact
 
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-`Python` `Java` `TypeScript` `JavaScript` `R` `SQL`
-
-**AI / ML**
-
-`PyTorch` `scikit-learn` `Sentence Transformers` `LangGraph`
-`CrewAI` `RAG` `Embeddings`
-
-**Backend / Data**
-
-`REST APIs` `Supabase` `ChromaDB` `PostgreSQL`
-
-**Tools**
-
-`Git` `GitHub` `Docker` `Playwright` `IntelliJ` `VS Code`
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Machine Learning
-- Retrieval & RAG systems
-- AI Agents
-- System Design
-
----
-
-## 📫 Let's Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) •
-[Email](mailto:YOUR_EMAIL) •
-[Resume](YOUR_RESUME_LINK)
-
----
-
-> I like building systems where AI actually has to **retrieve, reason,
-> use tools, and accomplish something useful.**
+[LinkedIn](https://linkedin.com/in/ahmealsh) ·
+[Email](mailto:ahmealsh@iu.edu)
